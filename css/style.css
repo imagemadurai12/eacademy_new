@@ -13,8 +13,10 @@ body {
 :root {
     --primary-color: white;
     --secondary-color: #252525;
-    --primary-bg-color: #fb6818;
-    --primary-bg-color-opacity: #fb681880;
+    /* --primary-bg-color: #fb6818; */
+    --primary-bg-color: #000080;
+    /* --primary-bg-color-opacity: #fb681880; */
+    --primary-bg-color-opacity: #00008030;
     --secondary-bg-color: #252525;
     --secondary-bg-color-opacity: #25252580;
     --tertiary-bg-color: white;
